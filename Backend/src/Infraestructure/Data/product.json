@@ -1,0 +1,57 @@
+[
+    {
+        "ProductName" : "IPhone",
+        "ProductPrice": 999.99,
+        "ProductDescription": "El iPhone dispone de cámara de fotos y un reproductor de música (equivalente al del iPod), además de software para enviar y recibir mensajes de texto y de voz",
+        "ProductRating": 5,
+        "ProductSeller":"apple",
+        "ProductStock": 1000,
+        "CategoryId": 1
+    },
+    {
+        "ProductName" : "HP EliteBook Dragonfly G3",
+        "ProductPrice": 4500.99,
+        "ProductDescription": "El HP EliteBook Dragonfly G3 es, como su propio ProductName indica, como una libélula: aerodinámico, ultraligero, resistente y tecnológicamente pensado para la productividad",
+        "ProductRating": 5,
+        "ProductSeller":"HP",
+        "ProductStock": 500,
+        "CategoryId": 1
+    },
+    {
+        "ProductName" : "Gigabyte Aorus G5",
+        "ProductPrice": 8900.99,
+        "ProductDescription": "Gigabyte Aorus G5 KC-5ES1130SD es un potente equipo de gama media con pantalla LED IPS de 15 pulgadas y resolución Full HD, con 144 Hz de tasa de refresco",
+        "ProductRating": 5,
+        "ProductSeller":"Acer",
+        "ProductStock": 500,
+        "CategoryId": 1
+    },
+    {
+        "ProductName" : "Acer TravelMate",
+        "ProductPrice": 2900.99,
+        "ProductDescription": "Este Acer TravelMate P2 TMP214-53 es un equipo para productividad y uso multimedia, con una pantalla de 14 pulgadas Full HD, aunque no es especialmente ligero",
+        "ProductRating": 5,
+        "ProductSeller":"Acer",
+        "ProductStock": 500,
+        "CategoryId": 1
+    },
+    {
+        "ProductName" : "Tv X14313",
+        "ProductPrice": 1700.99,
+        "ProductDescription": "Medion X14313 es una smart TV modesta en prestaciones, de la gama de entrada, aunque con una diagonal de 43 pulgadas y resolución 4K sobre un panel LED LCD a 60 Hz",
+        "ProductRating": 5,
+        "ProductSeller":"Sony",
+        "ProductStock": 500,
+        "CategoryId": 1
+    },
+    {
+        "ProductName" : "LG Oled Flex",
+        "ProductPrice": 5000.99,
+        "ProductDescription": "El LG OLED Flex es una televisión inteligente de 42 pulgadas, con resolución 4K, tasa de refresco a 120 Hz y tecnología OLED. El panel llega recubierto de un recubrimiento antirreflectante bastante eficaz, compatibilidad con las tecnologías G-Sync de NVIDIA y Freesync de AMD",
+        "ProductRating": 5,
+        "ProductSeller":"LG",
+        "ProductStock": 500,
+        "CategoryId": 1
+    }
+
+]
