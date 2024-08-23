@@ -71,7 +71,7 @@ namespace Infraestructure.Repositories
             IQueryable<T> query = _context.Set<T>();
             if(disableTracking) query = query.AsNoTracking();
             if(!string.IsNullOrWhiteSpace(includeString)) query = query.Include(includeString);
-            if(predicate != null) return (await orderBy(query).ToListAsync());
+            if(predicate != null) return (await orderBy!(query).ToListAsync());
             return await query.ToListAsync();
         }
 
